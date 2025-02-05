@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /management/
+Disallow: /api/
+Sitemap: https://justhomestay.in/sitemap.xml

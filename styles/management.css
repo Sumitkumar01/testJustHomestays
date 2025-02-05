@@ -1,0 +1,34 @@
+.paginationBttns {
+    width: 80%;
+    height: 30px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.paginationBttns a {
+    padding: 10px;
+    margin: 8px;
+    border-radius: 5px;
+    border: 1px solid #c5f542;
+    color: #090c01;
+    cursor: pointer;
+}
+
+.paginationActive a {
+    
+    background-color: #c5f542;
+}
+
+.paginationDisabled a {
+    background-color: #c8c9c8;
+}
+
+.previousBtn  {
+    background-color: #c5f542;
+
+}
+
+.nextBtn  {
+    background-color: #c5f542;
+}
